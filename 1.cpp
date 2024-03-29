@@ -7,8 +7,10 @@ class Simple
 
     private : 
     string name;
+    int val1;
+    int val2;
 
-    public :     
+    public :    
     void UpdateName(string name)
     {
         this->name = name;
