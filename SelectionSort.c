@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 // greatest to lowest
 
 #include <stdio.h>
