@@ -45,8 +45,6 @@ int main()
     free(Two);
     free(Three);
 
-    printf("it s working");
-
 }
 
 
